@@ -3,7 +3,7 @@ package part_1;
 /*
 Демонстрация условного оператора if
  */
-public class ifSample {
+public class IfSample {
     public static void main(String[] args) {
         int x, y;
         x = 10;
