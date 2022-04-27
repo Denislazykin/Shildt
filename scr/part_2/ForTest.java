@@ -1,4 +1,4 @@
-package part_1;
+package part_2;
 
 /*
 Демонстрация применения цикла for
