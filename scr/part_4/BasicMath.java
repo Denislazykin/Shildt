@@ -20,7 +20,7 @@ public class BasicMath {
 
         //значения с плавающей точкой
         System.out.println("\nАрифметика с плавающей точкой");
-        double da = 1+1;
+        double da = 1 + 1;
         double db = da * 3;
         double dc = db / 4;
         double dd = dc - a;
