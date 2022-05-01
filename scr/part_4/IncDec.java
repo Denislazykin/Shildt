@@ -1,7 +1,7 @@
 package part_4;
 
 /*
-Демонстрация инкремента ++
+Р”РµРјРѕРЅСЃС‚СЂР°С†РёСЏ РёРЅРєСЂРµРјРµРЅС‚Р° ++
  */
 public class IncDec {
     public static void main(String[] args) {
